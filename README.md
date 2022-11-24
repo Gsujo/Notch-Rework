@@ -6,14 +6,18 @@
 
 
 # Installation 
-
-![A-install](https://proxy.spigotmc.org/3bf6d0a292717ff0a9aa28bdfa7eda52c803808b?url=https%3A%2F%2Fi.imgur.com%2FdGyqbVP.gif)
+1. Drop into plugins folder
+2. Done
 
 
 
 ## Commands
 The plugin has only one command **/notchreload**
 It allows you to reload config
-    
+
+
+## Download from:
+
+[Spigot](https://www.spigotmc.org/resources/notch-rework-1-17-1-19-2.95388/)
 
    
