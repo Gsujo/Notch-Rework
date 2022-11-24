@@ -1,4 +1,4 @@
-# Notch 🍏!
+# Notch | 1.17 - 1.19.2 | 🍏!
 
 **Notch Rework - A simple plugin to restore Apple Notch to the game, the plugin allows you to customize crafting to your needs in the configuration file ⚙️**
 
