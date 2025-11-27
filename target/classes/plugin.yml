@@ -1,0 +1,10 @@
+main: Main
+authors: [gsujo, raymano]
+name: Notch-Rework
+version: 2.1
+api-version: 1.21
+
+commands:
+  notchreload:
+    usage: /<command>
+    description: Reload notch plugin
